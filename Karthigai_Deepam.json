@@ -1,0 +1,75 @@
+
+{
+  "project": "Karthigai Deepam Tamil Nadu 1987",
+  "year": 1987,
+  "festival": "Karthigai Deepam",
+  "location": "Arunachaleswarar Temple, Annamalai Hill, Tiruvannamalai",
+  "SCALE": {
+    "subject": "Tamil families lighting traditional clay oil lamps, with Maha Deepam burning on Annamalai Hill",
+    "composition": {
+      "camera": {
+        "shot": "wide establishing shot",
+        "angle": "slightly elevated eye-level",
+        "lens": "35mm"
+      },
+      "foreground": "Clay lamps and intricate rice-flour kolam",
+      "midground": "Devotees and Arunachaleswarar Temple",
+      "background": "Annamalai Hill and its sacred flame"
+    },
+    "action": "Families lighting lamps, devotees praying, flames flickering",
+    "location": "Tiruvannamalai, Tamil Nadu, India",
+    "esthetic": {
+      "style": "Photorealistic historical cinematic reconstruction",
+      "lighting": "Natural dusk and warm golden lamp light",
+      "colors": ["Deep indigo", "Golden yellow", "Temple stone", "Traditional red"],
+      "mood": "Devotional, peaceful and majestic",
+      "texture": "Authentic 1980s film photography"
+    }
+  },
+  "time_of_day": "sunset",
+  "historical_authenticity": {
+    "period": "1987",
+    "clothing": "Traditional Tamil silk sarees and veshti",
+    "objects": "Clay lamps, brass kuthu vilakku and traditional decorations",
+    "avoid": ["Smartphones", "LED lights", "Modern vehicles", "Modern architecture"]
+  },
+  "image_experiments": {
+    "image_1": {
+      "time_of_day": "sunset",
+      "camera_shot": "wide establishing shot"
+    },
+    "image_2": {
+      "change_only": "time_of_day",
+      "time_of_day": "night"
+    },
+    "image_3": {
+      "change_only": "camera.shot",
+      "camera_shot": "medium shot",
+      "time_of_day": "night"
+    }
+  },
+  "video": {
+    "duration": "15 seconds",
+    "aspect_ratio": "16:9",
+    "motion": {
+      "subject_motion": "Family members gently lighting clay lamps",
+      "camera_motion": "Slow push-in followed by an upward tilt toward the hill",
+      "environment_motion": "Natural flickering flames, gentle breeze and moving flower garlands",
+      "continuity": "Keep the same 1987 setting, people, clothing and temple throughout"
+    },
+    "timeline": [
+      "0-5 seconds: Establish temple and Annamalai Hill",
+      "5-10 seconds: Show family lighting traditional lamps",
+      "10-15 seconds: Reveal the glowing Maha Deepam"
+    ],
+    "audio": "Traditional temple bells and gentle nadaswaram"
+  },
+  "negative_prompt": [
+    "Modern technology",
+    "LED decorations",
+    "Incorrect temple architecture",
+    "Fantasy elements",
+    "Distorted faces",
+    "Unrealistic religious symbols"
+  ]
+}

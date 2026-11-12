@@ -1,0 +1,56 @@
+{
+  "title": "Karthigai Deepam – Tamil Nadu, 1987",
+  "historical_context": {
+    "period": "1987",
+    "time_of_day": "Sunrise",
+    "cultural_period": "Traditional Tamil Nadu during the late 1980s",
+    "era_accuracy": "Authentic 1987 Tamil lifestyle, architecture, clothing, household objects, customs and cultural traditions"
+  },
+  "SCALE_Framework": {
+    "S_Subject": "A traditional Tamil family celebrating Karthigai Deepam in 1987. Women wearing authentic traditional cotton sarees with simple hairstyles and jasmine flowers, men wearing white cotton veshti and angavastram, and children participating in the family celebrations. The family is surrounded by handmade clay oil lamps (agal vilakku), traditional decorations and festive household preparations.",
+
+    "C_Composition": "Wide cinematic establishing shot of a traditional Tamil house entrance at sunrise. Beautiful intricate white rice-flour kolam designs decorate the entrance and courtyard. Rows of handmade clay oil lamps are arranged along the entrance steps, compound walls, windowsills and rooftops. Family members gather around the courtyard. Traditional red-tiled houses and the distant silhouette of Annamalai Hill create a beautiful background. The composition captures both intimate family celebrations and the spiritual significance of the festival.",
+
+    "A_Action": "At sunrise on Karthigai Deepam morning in 1987, a traditional Tamil family gathers outside their home. The previous night's clay oil lamps continue to glow softly. Women prepare fresh kolams using rice flour, elders offer morning prayers, and children admire the remaining flickering lamps. Family members share joyful conversations and traditional festive moments. In the distant background, the sacred Mahadeepam on Annamalai Hill in Tiruvannamalai remains a symbolic focal point of devotion and Tamil cultural heritage.",
+
+    "L_Location": "Tiruvannamalai, Tamil Nadu, South India, in 1987. A traditional Tamil residential neighbourhood near the historic Annamalaiyar temple. Authentic village houses featuring red clay-tiled roofs, wooden doors, traditional pillars, open courtyards, stone pathways and narrow streets. Annamalai Hill is visible in the distance, representing the sacred location of the magnificent Karthigai Deepam Mahadeepam.",
+
+    "E_Esthetic": "Photorealistic 1980s South Indian vintage documentary photography. Authentic Tamil cultural atmosphere, nostalgic 35mm analog film appearance, natural earthy colors, warm golden sunrise lighting, soft morning mist, realistic human expressions, detailed traditional cotton fabrics, handmade clay lamps, authentic Tamil architecture, natural skin textures, subtle film grain, cinematic depth of field, atmospheric storytelling and historically accurate 1987 visual details."
+  },
+
+  "lighting_details": {
+    "natural_light": "Soft early-morning golden sunrise with gentle sunlight spreading across traditional tiled rooftops.",
+    "atmosphere": "Peaceful morning ambience with light mist, cool morning air and warm golden sunlight.",
+    "lamp_lighting": "Clay oil lamps (agal vilakku) still glowing softly from the previous night's Karthigai Deepam celebration.",
+    "overall_mood": "Spiritual, peaceful, nostalgic, devotional and culturally rich."
+  },
+
+  "cultural_authenticity": {
+    "festival": "Karthigai Deepam",
+    "traditional_practice": [
+      "Lighting handmade clay oil lamps",
+      "Drawing intricate rice-flour kolams",
+      "Cleaning and decorating traditional homes",
+      "Offering prayers to Lord Shiva",
+      "Gathering with family and neighbours",
+      "Celebrating the sacred Mahadeepam at Annamalai Hill"
+    ],
+    "clothing": "Authentic 1987 Tamil cotton sarees, white veshti, angavastram and traditional jewellery.",
+    "architecture": "Traditional Tamil tiled-roof houses, wooden doors, open courtyards and village streets.",
+    "important_landmark": "Annamalai Hill and Annamalaiyar Temple, Tiruvannamalai."
+  },
+
+  "technical_details": {
+    "image_quality": "Ultra-realistic, highly detailed, photorealistic",
+    "camera": "Vintage 35mm analog film camera",
+    "camera_perspective": "Wide-angle cinematic establishing shot at natural eye level",
+    "lighting": "Natural golden sunrise mixed with warm oil-lamp illumination",
+    "color_palette": "Earthy browns, traditional terracotta, warm gold, muted greens and natural cotton whites",
+    "film_texture": "Authentic subtle 1980s analog film grain",
+    "depth_of_field": "Natural cinematic depth with detailed foreground and atmospheric background",
+    "aspect_ratio": "16:9",
+    "resolution": "4K"
+  },
+
+  "negative_prompt": "Modern buildings, LED lights, electric decorative lighting, smartphones, modern vehicles, contemporary clothing, plastic decorations, modern architecture, glass skyscrapers, neon colors, fantasy temples, artificial-looking faces, cartoon style, anime, CGI appearance, excessive digital saturation, futuristic objects, incorrect Tamil cultural elements, inaccurate traditional clothing, blurry faces, distorted hands, duplicated people, text, watermark, logo, sunset lighting, nighttime scene."
+}
